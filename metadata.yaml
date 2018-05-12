@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4216
     wikipedia: http://en.wikipedia.org/wiki/Sarah_Knowles_Bolton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39380#Famous-European-Artists
 gutenberg_issued: '2012-04-05'
 gutenberg_type: Text
 identifiers:
